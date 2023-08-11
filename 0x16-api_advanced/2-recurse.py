@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-"""Question redit and return the title of the 
-top ten hot articles."""
+"""Question redit and return the title of the top ten hot articles."""
 import requests
 
 
